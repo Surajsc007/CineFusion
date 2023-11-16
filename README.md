@@ -1,7 +1,5 @@
 # CineFusion
-
-    https://cine-fusion.vercel.app/
-
+https://cine-fusion.vercel.app/
 
 
 # Resource
