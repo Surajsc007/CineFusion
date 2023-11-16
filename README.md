@@ -1,5 +1,5 @@
 # CineFusion
-https://cine-fusion.vercel.app/
+Checkout Project: https://cine-fusion.vercel.app/
 
 
 # Resource
